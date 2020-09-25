@@ -1,6 +1,7 @@
 site_name: Test MKDocs
 nav:
     - Home: index.md
+    - Test: test.md
     - About: about.md
 
 theme: readthedocs
