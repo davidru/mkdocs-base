@@ -1,4 +1,4 @@
-site_name: Test MKDocs
+site_name: Handbook
 nav:
     - Home: index.md
     - About: about.md
