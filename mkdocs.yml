@@ -2,5 +2,6 @@ site_name: Handbook
 nav:
     - Home: index.md
     - About: about.md
-    - Test: test.md
+    - Getting Started:  Getting_Started.md
+    - Terminology:  Terminology.md
     
